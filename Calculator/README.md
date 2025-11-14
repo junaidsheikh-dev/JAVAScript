@@ -5,10 +5,10 @@ A simple calculator project built with **HTML, CSS, and JavaScript**. It support
 ---
 
 ##  Features  
-- Basic arithmetic operations (+, −, ×, ÷)  
+- Basic arithmetic operations (+, −, ×, ÷, %)  
 - Responsive design  
 - Interactive UI with button click effects  
-- Clear button
+- Allclear and Clear button
 
 ---
 
@@ -21,7 +21,7 @@ A simple calculator project built with **HTML, CSS, and JavaScript**. It support
 
 ##  Preview
 
-![Todo App Screenshot](./shCal.png)
+![Todo App Screenshot](./.png)
 
 ---
 
