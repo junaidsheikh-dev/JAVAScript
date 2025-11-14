@@ -40,6 +40,6 @@ This repository showcases different concepts of **JavaScript (ES6+), DOM manipul
 
 1. Clone this repository or download the folder:  
    ```bash
-    git clone https://github.com/levelupsoftwares/JS-Projects.git
+    https://github.com/junaidsheikh-dev/JAVAScript-Projects.git
 
 
