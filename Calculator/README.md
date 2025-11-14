@@ -29,10 +29,10 @@ A simple calculator project built with **HTML, CSS, and JavaScript**. It support
 
 1. Clone this repository or download the folder:  
    ```bash
-   git clone https://github.com/levelupsoftwares/JS-Projects.git
+   https://github.com/junaidsheikh-dev/JAVAScript-Projects.git
 
 2.  After cloning, you can go into this project-folder like this:
   ```bash
-     cd JS-Projects/Calculator
+     cd JAVAScript-Projects/Calculator
 
 ---
